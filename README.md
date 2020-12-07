@@ -1,6 +1,6 @@
-# BizuitTheme
+# SwitchAngularTheme
+El proyecto es un ejemplo de prueba para cambiar dinamicamente los temas de angular, como asi tambien poder cambiar  algunos colores que no pertenescan a los preestablecidos en el tema (en este caso la barra lateral).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
 ## Development server
 
